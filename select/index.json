@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "レモン",
+  "base_artist": "TOMOO",
+  "createdAt": "2026-03-27T02:24:31.304486Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "レモン",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/01_レモン_TOMOO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "レモン×",
+      "artist": "3markets[ ]",
+      "has_synced": false,
+      "path": "select/02_レモン×_3markets[_].txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "レモン",
+      "artist": "Tomoyo Harada",
+      "has_synced": false,
+      "path": "select/03_レモン_Tomoyo_Harada.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "レモン",
+      "artist": "原田知世",
+      "has_synced": false,
+      "path": "select/04_レモン_原田知世.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レモン",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/pl_01_レモン_TOMOO.txt"
+    }
+  ]
+}
